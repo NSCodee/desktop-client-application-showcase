@@ -111,8 +111,8 @@ The project was developed through practical iterations:
 - [x] Data workflow integration
 - [x] Business-logic preservation
 - [x] Delivery-oriented iteration
-- [ ] Additional long-term maintenance improvements
-- [ ] Optional modernization pass
+- [x] Additional long-term maintenance improvements
+- [x] Optional modernization pass
 
 ## Architecture Overview
 
